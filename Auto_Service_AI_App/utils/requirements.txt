@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+twilio
+uvicorn
+fastapi
+email-validator
+python-dotenv
+joblib
+openpyxl            # for Excel support
